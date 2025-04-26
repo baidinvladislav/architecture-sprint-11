@@ -19,4 +19,4 @@
 | **User**      | Управление пользователями и доступом | Регистрация, аутентификация, профили пользователей, контроль доступа | Центральное управление пользователями и доступами критично для безопасности всех доменов.                |
 
 ### Data Flow Diagram
-![data_flow_diagram.drawio.png](data_flow_diagram.drawio.png)![dfd.drawio.png](dfd.drawio.png)
+![data_flow_diagram.drawio.png](data_flow_diagram.drawio.png)
